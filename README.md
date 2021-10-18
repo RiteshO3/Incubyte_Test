@@ -16,4 +16,4 @@ State|Country|DOB|Is_Active
 
 
 A python Script which accepts the sample file with format given above.
-MySQL database with common/usual connector is referred and data is stored in the db.
+MySQL database with common/usual connector is referred and data is stored in the db incubyte.
